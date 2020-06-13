@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  background-color: gray;
+  text-align: center;
+}
+
+.header > h1 {
+  color: greenyellow;
+  font-family: "Patrick Hand", cursive;
+  text-shadow: 2px 2px black;
+  font-size: 5.5rem;
+  margin: 30px 0 20px;
+}
+
+h4 {
+  font-family: "Patrick Hand", cursive;
+  text-shadow: 1px 1px white;
+  font-size: 2rem;
+  margin: 2rem;
+}
+
+.dice1 {
+  display: inline-block;
+  position: absolute;
+  left: 24rem;
+}
+
+.dice2 {
+  display: inline-block;
+  position: absolute;
+  right: 24rem;
+}
+
+footer {
+  margin-top: 33%;
+  font-family: "Patrick Hand", cursive;
+  font-weight: 300;
+  font-style: italic;
+  color: white;
+  letter-spacing: 5px;
+}
